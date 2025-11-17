@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**WalkingRedWir## 
+**WalkingRedWire## 
 
 🛡️ TryHackMe Cybersecurity Training
 
