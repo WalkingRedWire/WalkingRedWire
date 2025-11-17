@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **WalkingRedWir## 
 
 🛡️ TryHackMe Cybersecurity Training
@@ -80,5 +79,5 @@ These rooms strengthened my abilities in:
 - Basic Exploitation Techniques  
 - Web Security  
 - Understanding Attack Vectors  
-e/WalkingRedWire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e/WalkingRedWire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
