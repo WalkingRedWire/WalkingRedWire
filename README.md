@@ -1,83 +1,113 @@
 ## Hi there 👋
 
-**WalkingRedWire## 
-
-🛡️ TryHackMe Cybersecurity Training
+## 🛡️ TryHackMe Cybersecurity Training
 
 I actively train on **TryHackMe** to build hands-on cybersecurity, networking, Linux, and security analysis skills.  
 Below is my current progress, learning paths completed, and milestone badges earned.
 
-### 🎓 Learning Path Completed
-**Pre-Security Learning Path**  
-_Completed: November 10th, 2025_  
-- 5 modules  
-- 18 hands-on labs  
-- Topics covered:  
-  - Cyber security fundamentals  
-  - Networking basics & weaknesses  
-  - Web technologies and common attacks  
-  - Linux command-line proficiency  
+---
+
+## 🎓 Learning Paths Completed
+
+### **Cyber Security 101 Learning Path**
+Learn everything needed to begin a career in offensive or defensive cybersecurity.  
+Topics covered:
+- Computer networking and cryptography  
+- Basics of Linux, Windows, and Active Directory  
+- Intro to offensive security  
+- Defensive security fundamentals  
+
+### **Pre-Security Learning Path**
+A strong foundation for anyone entering cybersecurity.  
+Topics covered:
+- Cyber security fundamentals  
+- Networking basics & weaknesses  
+- Web technologies and common attacks  
+- Linux command-line proficiency  
 
 ---
 
 ## 🎓 Education
 
 ### **AAS in Computer Networking & Cybersecurity (In Progress)**  
-**Montgomery County Community College – Blue Bell, PA**  
-- Coursework includes:  
-  - **Networking Fundamentals (Cisco)**  
-  - **Switching, Routing & Wireless (Cisco)**  
-  - **Linux Essentials & System Administration**  
-  - **Cloud Computing**  
-  - **Network Security Fundamentals**  
-  - **Computer Science I (Java)**  
-- Hands-on experience with:  
-  - Cisco Packet Tracer  
-  - Linux terminal environments  
-  - Virtualization (VirtualBox, VMs, pfSense)  
-  - Azure & AWS beginner-level labs  
-- Actively preparing for: **CompTIA A+, Network+, Security+**
+**Montgomery County Community College – Blue Bell, PA**
+
+Core technical coursework:
+- **CIS 113 – IT Hardware Essentials**
+- **CIS 141 – Introduction to Linux**
+- **CIS 170 – Introduction to Networks (Cisco)**
+- **CIS 155 – PC Applications on Networks**
+- **CIS 166 – Introduction to Cloud Computing**
+- **CIS 171 – Switching, Routing & Wireless (Cisco)**
+- **CIS 275 – Network Security Fundamentals**
+- **CIS 110 – Programming for Everyone**
+- **CIS 111 – Computer Science I: Programming Concepts (Java)**
+- **CIS 111B – Computer Science II: Object-Oriented Programming (Java)**
+- **CIS 158 – Windows Server Administration**
+- **CIS 258 – Ethical Hacking**
+- **CIS 230 – Communication in Organizations** *(optional — supports teamwork & communication)*
+
+Hands-on experience includes:
+- Cisco Packet Tracer labs (VLANs, routing, switching, DHCP, IPv6)  
+- Linux administration (shell, permissions, system management)  
+- Virtualization using VirtualBox, pfSense, Kali Linux & Ubuntu Server  
+- Azure and AWS introductory cloud labs  
+- Java programming projects (OOP, algorithms, conditional logic)  
+- Network security fundamentals & vulnerability analysis  
+- Windows Server 2019 administration basics  
+
+Actively preparing for:
+- **CompTIA A+**, **Network+**, **Security+**
 
 ---
 
 ## 🚀 Milestones & Skill Badges Earned
 
-### 🟥 Red Teaming Milestones
-- **Metasploitable** – Utilizing Metasploit for exploitation  
-- **OWASP Top 10** – Understanding OWASP vulnerabilities  
-- **Blue** – Windows exploitation via EternalBlue
+### 🟥 Red Team & Offensive Security
+- **Metasploitable** – Using Metasploit  
+- **SQLMap (Sword Apprentice)** – SQL injection automation  
+- **OWASP Top 10** – Understanding common web vulnerabilities  
+- **Blue** – EternalBlue exploitation  
 
-### 🌐 Foundations Milestones
-- **Networking Nerd** – Network Fundamentals module  
-- **World Wide Web** – How The Web Works module  
+### 🌐 Foundations & Web
+- **Networking Nerd**  
+- **World Wide Web**  
 - **Webbed** – Understanding web architecture  
+
+### 🐧 Linux & Systems
 - **cat linux.txt** – Competent Linux user  
 
-### 🔥 Activity Milestones
-- **7-Day Streak**  
+### 🎯 Activity & Community
+- **Raffle Royalty** – Hack2Win 2025 participation  
 - **3-Day Streak**  
-- **Bronze League (1st Place)**
+- **7-Day Streak**  
+- **Bronze League Winner (1st Place)**  
+- **Shield Apprentice** – Completed FlarerVM  
+- **Cyber Ready** – Understanding the impact of training on teams  
 
 ---
 
 ## 📊 Profile Stats
+
 **TryHackMe Username:** WalkingRedWire  
-- 🏆 **Rank:** 207,595  
-- 🎯 **Badges:** 11  
-- 🔥 **Streak:** 7 days  
-- 🗂️ **Rooms Completed:** 46  
+- 🏆 **Rank:** 150,599 (Top 8%)  
+- 🔥 **Streak:** 8 days  
+- 🎯 **Badges:** 14  
+- 📦 **Completed Rooms:** 62  
 
 Profile link: https://tryhackme.com/p/WalkingRedWire
 
 ---
 
 ## 🧠 Skills Gained
-These rooms strengthened my abilities in:
+
+Hands-on labs strengthened my abilities in:
 - Linux & Bash  
-- Security Analysis  
-- Networking Concepts  
-- Basic Exploitation Techniques  
-- Web Security  
-- Understanding Attack Vectors  
+- Network scanning & enumeration  
+- Web security fundamentals  
+- Vulnerability assessment  
+- Exploitation basics  
+- Cyber defense fundamentals  
+- Understanding attack surfaces  
 
 
